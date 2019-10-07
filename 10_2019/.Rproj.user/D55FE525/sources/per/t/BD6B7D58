@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570414441895.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "391583578",
+    "id" : "BD6B7D58",
+    "lastKnownWriteTime" : 1570414470,
+    "last_content_update" : 1570414470302,
+    "path" : "~/Resumes/10_2019/landers_rachel_10_2019_resume.Rnw",
+    "project_path" : "landers_rachel_10_2019_resume.Rnw",
+    "properties" : {
+        "cursorPosition" : "137,14",
+        "scrollLine" : "105",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sweave"
+}
