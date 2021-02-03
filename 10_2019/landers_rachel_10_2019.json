@@ -15,12 +15,12 @@
   },
   "education": [
     {
-      "institution": "Texas A&M University-Commerce",
-      "location": "Commerce, TX",
-      "area": "Mathematics, Spanish",
-      "studyType": "Bachelor of Arts",
-      "startDate": "August 2008",
-      "endDate": "December 2012"
+      "institution": "University of Texas at San Antonio",
+      "location": "San Antonio, Texas",
+      "studyType": "Master of Science",
+      "area": "Data Analytics",
+      "startDate": "August 2019",
+      "endDate": "Present"
     },
     {
       "institution": "Texas A&M University-Commerce",
@@ -29,6 +29,14 @@
       "area": "Mathematics",
       "startDate": "August 2013",
       "endDate": "May 2015"
+    },
+    {
+      "institution": "Texas A&M University-Commerce",
+      "location": "Commerce, TX",
+      "area": "Mathematics, Spanish",
+      "studyType": "Bachelor of Arts",
+      "startDate": "August 2008",
+      "endDate": "December 2012"
     }
   ],
   "work": [
@@ -40,10 +48,13 @@
       "startDate": "July 2017",
       "endDate": "Present",
       "highlights": [
-        "Design, implement, & maintain visualizations of system/application health data for system/ application admins and business users using Tableau and Microsoft Excel",
+        "Design, implement, & maintain visualizations of system/application health data for system/application admins and business users using Tableau",
         "Manually validate data moved from source to long-term storage layer of monitoring platform is accurate and formatted consistently",
-        "Write Python program as part of team to confirm persisted data is consistent with source data",
-        "Re-formatted ServiceNow application to be consistent with modern coding best practices"
+        "Co-wrote Python program with team to confirm persisted data is consistent with source data",
+        "Continuously learn and propagate visualization best practices",
+        "Co-engineered Nifi data pipeline to persist data in HDFS and Hive",
+        "Co-wrote Python Zalenium framework with team to gather and persist Tableau workbook performance data",
+        "Enforce and follow data compliance standards"
       ]
     },
     {
@@ -123,6 +134,7 @@
         "JSON",
         "XML",
         "C++",
+        "Selenium",
         null
       ]
     },
@@ -132,10 +144,7 @@
         "Control-M",
         "GitLab",
         "Eclipse",
-        "Sublime",
-        "Tableau",
-        null,
-        null
+        "Sublime"
       ],
       "name": "Software"
     },
@@ -145,7 +154,8 @@
         "Plot.ly",
         "JFreeChart",
         "Microsoft Excel",
-        "ggplot2"
+        "ggplot2",
+        "Splunk"
       ],
       "name": "Data Visualization Tools"
     },
